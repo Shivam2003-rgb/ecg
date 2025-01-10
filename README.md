@@ -27,12 +27,11 @@ The solution is designed to be robust and interpretable, targeting both medical 
 
 ## Installation
 
-Follow these steps to set up the project locally:  
-<br/>1\. 
-<br/><br/>2\. Create a virtual environment:  
+Follow these steps to set up the project locally:   
+<br/><br/>1\. Create a virtual environment:  
 python -m venv env  
 source env/bin/activate # On Windows: env\\Scripts\\activate  
-<br/>3\. Install the required dependencies:  
+<br/>2\. Install the required dependencies:  
 pip install -r requirements.txt  
 <br/>
 
