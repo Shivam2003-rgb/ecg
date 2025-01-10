@@ -28,9 +28,7 @@ The solution is designed to be robust and interpretable, targeting both medical 
 ## Installation
 
 Follow these steps to set up the project locally:  
-<br/>1\. Clone the repository:  
-git clone
-<https://github.com/Ayush-yadav11/ECG-Classification.git>  
+<br/>1\. 
 <br/><br/>2\. Create a virtual environment:  
 python -m venv env  
 source env/bin/activate # On Windows: env\\Scripts\\activate  
